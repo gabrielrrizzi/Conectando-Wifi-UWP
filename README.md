@@ -4,7 +4,7 @@ Observação: a primeira vez que você abrir o código ele irá apresentar diver
 
 Detalhes do código:
 
-1° - Todo design presente no sistema é produzido em cima de um XAML, ou seja, é de fácil conversão para os mais vários tipos de dispositivos. 
+1° - Todo design presente no sistema é produzido em cima de um XAML, ou seja, é de fácil conversão para os mais vários tipos de dispositivos.\n 
 ![image](https://user-images.githubusercontent.com/84163083/193551660-526067bb-bb0a-4071-b923-70c0512d26bb.png)
 
 2° - Utilização no geral. 
